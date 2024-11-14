@@ -13,7 +13,7 @@ Este proyecto es una aplicación para adopción de mascotas. A continuación, se
 ### 1. Clonar el repositorio
 Clona el repositorio e ingresa al directorio del proyecto:
 
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/Jaret-Hl/final-adoption.git
 cd app-adoption
 
 ### Instalar dependencias
